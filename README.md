@@ -1,4 +1,6 @@
-# Conformer-Geometry
+# Bayesian Optimization Algorithm for Molecular Conformers
+
+Scripts and data associated with "Bayesian optimization for conformer generation", [*Journal of Cheminformatics* **(2019)** 11, art: 32](https://doi.org/10.1186/s13321-019-0354-7)
 
 parameter_file: periodicty for each molecules
 
